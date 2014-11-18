@@ -1,4 +1,4 @@
-[{
+var china_city_area_zip = [{
 	"id": 2,
 	"name": "北京",
 	"child": [{
@@ -13474,4 +13474,4 @@
 			"zipcode": "831300"
 		}]
 	}]
-}]
+}];
